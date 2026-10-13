@@ -18,8 +18,16 @@ Burp Suite, Postman, Chrome DevTools, Java, Git e GitHub.
 
 **Semana 1 — Fundamentos de segurança web**
 
-- [x] Dia 1 — Fundamentos HTTP, headers, status e análise de APIs
+- [x] Dia 1 — Fundamentos HTTP, headers, status e análise de APIs (simulado final: **8,6/10**) — [relatório técnico](semana-01/dia-01/relatorio-http.md)
 - [ ] Dia 2 — Burp Suite e interceptação de requisições
+
+### Aprendizados do Dia 1
+
+- Inspeção de requisições e respostas HTTP no DevTools.
+- Diferenciação entre método, URL, headers e corpo JSON.
+- Distinção entre autenticação, autorização e CORS.
+- Introdução a BOLA/IDOR e documentação de resultados sem afirmar vulnerabilidades não comprovadas.
+- **Próximo ponto de melhoria:** reunir evidências suficientes para comprovar falhas de controle de acesso.
 
 ## Laboratórios
 
