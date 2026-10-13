@@ -28,4 +28,3 @@ Os exercícios são realizados em aplicações próprias, ambientes educacionais
 ## Objetivo profissional
 
 Transição de Analista de Sistemas/Sustentação para Analista de Segurança de Aplicações (AppSec).
-
