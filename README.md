@@ -20,7 +20,7 @@ Burp Suite, Postman, Chrome DevTools, Java, Git e GitHub.
 
 - [x] Dia 1 — Fundamentos HTTP, headers, status e análise de APIs (simulado final: **8,6/10**) — [relatório técnico](semana-01/dia-01/relatorio-http.md)
 - [ ] Dia 2 — Burp Suite e interceptação de requisições
-- [x] Dia 3 — Requisições HTTP, autorização e laboratório PortSwigger de IDOR/BOLA — [relatório do laboratório](semana-01/dia-03/relatorio-controle-acesso-portswigger.md)
+- [x] Dia 3 — Requisições HTTP, autorização e laboratório PortSwigger de IDOR/BOLA — [relatório em inglês](reports/dia-03-broken-object-level-authorization.md)
 
 ### Aprendizados do Dia 1
 
@@ -35,7 +35,7 @@ Burp Suite, Postman, Chrome DevTools, Java, Git e GitHub.
 - Comparei o acesso legítimo à conta de teste `wiener` com uma requisição alterada para `carlos`.
 - A aplicação retornou `200 OK` e os dados de outra conta na mesma sessão, confirmando a falha no laboratório.
 - Reforcei que a autorização deve ser verificada no servidor para cada objeto solicitado.
-- Registrei evidências, impacto, correção recomendada e testes de regressão no relatório.
+- Registrei evidências, impacto, correção recomendada e testes de regressão no [relatório em inglês](reports/dia-03-broken-object-level-authorization.md).
 
 ## Laboratórios
 
