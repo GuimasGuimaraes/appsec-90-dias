@@ -72,6 +72,9 @@ An authenticated user could access another user's account data by changing an id
 - [X] Modified request observed in the same session: `GET /my-account?id=carlos`, `200 OK`, with Carlos's account data.
 - [X] PortSwigger lab completion confirmed by the **Solved** message.
 
+<img width="1346" height="677" alt="image" src="https://github.com/user-attachments/assets/83d8de83-edaf-4145-b0b4-8c843a19cfb3" />
+
+
 **Testing scope:** Authorized PortSwigger training laboratory only.
 
 ## References
